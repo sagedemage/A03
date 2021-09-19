@@ -1,4 +1,9 @@
-# GitHub Tutorial
+# Tutorial
+## Webstorm
+1. Create project and name it.
+2. Add a file named readme.md.
+3. Add text to the file.
+## GitHub 
 1. Click on GitHub icon at the top right.
 2. Click on the "new" button
 3. Give a name to the repository.
