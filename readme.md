@@ -9,7 +9,7 @@
 7. Once you add changes to the repo, click on "**Git**" then "**commit**".
 8. Give a meaningful **commit** message then click on "**commit** and **push**" to add the changes to your repo.
 ## Glossary
-1. Git
-2. GitHub
-3. Commit
-4. Push
+* Git 
+* GitHub 
+* Commit 
+* Push
