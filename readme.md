@@ -1,4 +1,4 @@
-# Tutorial
+# Git, Webstorm and GitHub Tutorial
 ## Directions on Using Webstorm
 1. Create project and it should be an empty project. 
 2. Change the untitled to your repository name
