@@ -15,4 +15,4 @@
 * Push: add changes to the online version of the repo.
 ## References
 https://github.com/about \
-https://git-scm.com/ \
+https://git-scm.com/
