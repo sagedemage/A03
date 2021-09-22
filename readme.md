@@ -33,12 +33,12 @@ https://www.atlassian.com/git/tutorials/saving-changes/git-commit#:~:text=The%20
 https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20push%20command%20is,exports%20commits%20to%20remote%20branches. 
 ### Clone 
 https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20a%20Git,copy%20of%20the%20target%20repository. 
-## Fetch
+### Fetch
 https://www.atlassian.com/git/tutorials/syncing/git-fetch
-## Merge
+### Merge
 https://git-scm.com/docs/git-merge
-## Pull
+### Pull
 https://git-scm.com/docs/git-pull
-## Remote
+### Remote
 https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 
