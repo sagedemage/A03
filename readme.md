@@ -23,20 +23,21 @@
 * Repository: It is the project that contains folders and files of a person's work. 
 
 ## References
-### GitHub
-https://github.com/about 
-### Git
-https://git-scm.com/ 
+### Clone
+https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20a%20Git,copy%20of%20the%20target%20repository.
 ### Commit
-https://www.atlassian.com/git/tutorials/saving-changes/git-commit#:~:text=The%20git%20commit%20command%20captures,you%20explicitly%20ask%20it%20to. 
-### Push
-https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20push%20command%20is,exports%20commits%20to%20remote%20branches. 
-### Clone 
-https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20a%20Git,copy%20of%20the%20target%20repository. 
+https://www.atlassian.com/git/tutorials/saving-changes/git-commit#:~:text=The%20git%20commit%20command%20captures,you%20explicitly%20ask%20it%20to.
 ### Fetch
 https://www.atlassian.com/git/tutorials/syncing/git-fetch
+### Git
+https://git-scm.com/
+### GitHub
+https://github.com/about
 ### Merge
 https://git-scm.com/docs/git-merge
+### Merge Conflict
+### Push
+https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20push%20command%20is,exports%20commits%20to%20remote%20branches.
 ### Pull
 https://git-scm.com/docs/git-pull
 ### Remote
