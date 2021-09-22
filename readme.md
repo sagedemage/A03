@@ -16,7 +16,7 @@
 * Git: is a free and open source version control system used to handle projects.
 * GitHub: is an online development platform.
 * Merge: Combine changes from the two or more branches. 
-* Merge Conflict:
+* Merge Conflict: Git can't resolve the changes between the branches so the branches can't be merged. 
 * Push: Upload the changes to the remote repo.
 * Pull: Get changes from a remote repository and add it into the current branch.
 * Remote: The project that is on the internet.
@@ -36,6 +36,7 @@ https://github.com/about
 ### Merge
 https://git-scm.com/docs/git-merge
 ### Merge Conflict
+https://www.gitkraken.com/learn/git/tutorials/how-to-resolve-merge-conflict-in-git
 ### Push
 https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20push%20command%20is,exports%20commits%20to%20remote%20branches.
 ### Pull
