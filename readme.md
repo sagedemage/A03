@@ -11,8 +11,10 @@
 ## Glossary
 * Git: is a free and open source version control system used to handle projects.
 * GitHub: is an online development platform.
-* Commit: add changes to the local version of the repo. 
-* Push: add changes to the online version of the repo.
+* Commit: Packages the snapshot of the changes made from the project.
+* Push: Upload the changes to the remote repo.
 ## References
 https://github.com/about \
-https://git-scm.com/
+https://git-scm.com/ \
+https://www.atlassian.com/git/tutorials/saving-changes/git-commit#:~:text=The%20git%20commit%20command%20captures,you%20explicitly%20ask%20it%20to. \
+https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20push%20command%20is,exports%20commits%20to%20remote%20branches.
